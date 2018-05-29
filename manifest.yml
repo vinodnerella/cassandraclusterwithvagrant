@@ -1,0 +1,7 @@
+---
+  instances: 3
+  name_prefix: cassandra0
+  memory: 2048
+  cpus: 1
+  privateip_prefix: 192.168.100.15
+  bootstrap: /Users/vinodnerella/RandD/vagrant/cassandra/bootstrap.sh
